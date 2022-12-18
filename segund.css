@@ -1,0 +1,132 @@
+body {
+    background-color: white;
+    font-family: 'Raleway';
+    margin: 0px;
+    
+}
+.nave {
+    background-color:  #76BEBE;
+    display: flex;
+    justify-content: space-around;
+    height: 107px;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    
+    
+}
+nav a {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    min-width: 100vh;
+    background-color: #FFFFFF;
+    display: grid;
+    grid-auto-flow: column;
+    text-align: center;
+    height: 150px;
+    
+
+}
+
+
+.logo {
+    padding-left: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 161px;
+    
+
+}
+
+input {
+    box-sizing: border-box;
+    border: none;
+    max-width: 467px;
+    height: 54px;
+    background: rgba(255, 255, 255, 0.57);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    
+
+}
+
+label {
+    padding-bottom: 7px;
+    padding-top: 17px;
+    font-size: 28px;
+    line-height: 34px;
+    font-family: 'Alegreya Sans SC';
+    
+}
+#central {
+    padding-top: 20px;
+    text-align: center;
+    
+    
+    background-color:#F5F5F5;
+}
+
+button {
+    background:  #76BEBE;
+    border-radius: 10px;
+    font-size: 39px;
+    width: 244px;
+    height: 52px;
+    color: white;
+    font-family: 'Raleway';
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+
+.title {
+    font-size: 64px;
+    padding-right: 5rem;
+    color:  #CF509C;
+    font-weight: 400;
+    margin: 0px;
+}
+.tetle {
+    font-size: 36px;
+    padding-right: 5rem;
+    color: black;
+    font-weight: 400;
+    margin: 0px;
+}
+.formar {
+    border-radius: 10px;
+    margin-left: 3rem;
+    display: grid;
+    grid-auto-flow: row;
+    margin: auto;
+    background-color: white;
+    max-width: 300px;
+    height: 100px;
+    padding: 30px;
+    
+}
+
+    #seco-form {        
+        display: grid;
+        grid-auto-flow: row;   
+        background-color: #F5F5F5;
+       text-align: center;
+       align-items: center;
+       height: 200px;
+       
+    }
+    a {
+        text-decoration: none;
+    }
+    #forme {
+        text-align: center;
+    }
+
+
+
